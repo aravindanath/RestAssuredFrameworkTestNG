@@ -1,0 +1,57 @@
+10-03-2019 22:47:52 INFO  WeatherDataGetCallTest:28 - *******Basic Authentication Test Case Execution is Started*******
+10-03-2019 22:47:56 INFO  WeatherDataGetCallTest:51 - -----Response Body is Printed and Validated-----
+10-03-2019 22:47:56 INFO  WeatherDataGetCallTest:34 - *******Customer Post Call Java Objects Test Case Execution is Started*******
+10-03-2019 22:47:56 INFO  WeatherDataGetCallTest:61 - -----Response Body is Printed-----
+10-03-2019 22:47:56 INFO  WeatherDataGetCallTest:31 - *******Customer Post Call Test Case Execution is Started*******
+10-03-2019 22:47:57 INFO  WeatherDataGetCallTest:25 - *******Delete Call Test Case Execution is Started*******
+10-03-2019 22:47:58 INFO  WeatherDataGetCallTest:42 - -----Status Code is Printed and Validated-----
+10-03-2019 22:47:58 INFO  WeatherDataGetCallTest:31 - *******Put Call Test Case Execution is Started*******
+10-03-2019 22:48:00 INFO  WeatherDataGetCallTest:60 - -----Response Body is Printed and Validated-----
+10-03-2019 22:48:01 INFO  WeatherDataGetCallTest:27 - *******Weather Data Get Call Test Case Execution is Started*******
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:54 - -----Response Body is Printed and Validated-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:59 - -----Status Code is Printed and Validated-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:62 - -----Status Line is Printed-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:65 - -----Printing all Headers-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:67 - -----Printed All Headers-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:75 - -----Printed Individual Headers-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:78 - -----Printing Each Value of Response Body Using Json Path-----
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:110 - *******Weather Data Get Call Test Case Execution is Completed*******
+10-03-2019 22:48:02 INFO  WeatherDataGetCallTest:27 - *******Weather Data Get Call Test Case Execution is Started*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:54 - -----Response Body is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:59 - -----Status Code is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:62 - -----Status Line is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:65 - -----Printing all Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:67 - -----Printed All Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:75 - -----Printed Individual Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:78 - -----Printing Each Value of Response Body Using Json Path-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:110 - *******Weather Data Get Call Test Case Execution is Completed*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:60 - -----Status Code is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:69 - -----Status Code is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:102 - -----Status Code is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:111 - -----Fault Id and Fault Message is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:49 - -----Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:51 - -----Printed All Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:58 - -----Printed Indivdual Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:64 - *******Delete Call Test Case Execution is Completed*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:69 - -----Status Code is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:67 - -----Status Line is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:76 - -----Status Line is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:76 - -----Status Line is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:119 - -----Status Line is Printed-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:73 - -----Printing Headers in First Way-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:77 - -----Printing Headers in Second Way-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:82 - -----Printed Headers in 2 Ways-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:90 - -----Printed Headers Individually-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:82 - -----Printing Headers in First Way-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:86 - -----Printing Headers in Second Way-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:91 - -----Printed Headers in 2 Ways-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:99 - -----Printed Headers Individually-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:105 - *******Put Call Test Case Execution is Completed*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:96 - -----Success Code and Success Message is Printed and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:116 - *******Customer Post Call Java Objects Test Case Execution is Completed*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:128 - -----Printed All Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:135 - -----Printed Indivdual Headers-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:141 - *******Customer Post Call Test Case Execution is Completed*******
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:96 - -----Printing Each Value of Response Body-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:106 - -----Printed Each Value of Response Body and Validated-----
+10-03-2019 22:48:04 INFO  WeatherDataGetCallTest:112 - *******Basic Authentication Test Case Execution is Completed*******

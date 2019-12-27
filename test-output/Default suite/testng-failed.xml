@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qa.rest.TestCases.WeatherDataGetCallTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setLog4J"/>
+          <include name="setUp"/>
+          <include name="getWeatherDataWithCorrectCityNameTest" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.qa.rest.TestCases.WeatherDataGetCallTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

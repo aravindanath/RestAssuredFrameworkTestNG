@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestAssured Test Automation Sanity Suite]">
+  <listeners>
+    <listener class-name="com.qa.rest.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="RestAssured Test Automation Test Cases(failed)">
+    <classes>
+      <class name="com.qa.rest.TestCases.CustomerPostCallTest">
+        <methods>
+          <include name="validateResponseBody"/>
+          <include name="tearDown"/>
+          <include name="setLog4J"/>
+          <include name="createCustomerTest"/>
+        </methods>
+      </class> <!-- com.qa.rest.TestCases.CustomerPostCallTest -->
+    </classes>
+  </test> <!-- RestAssured Test Automation Test Cases(failed) -->
+</suite> <!-- Failed suite [RestAssured Test Automation Sanity Suite] -->

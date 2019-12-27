@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3766" started-at="2019-11-08T15:39:09Z" finished-at="2019-11-08T15:39:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3766" started-at="2019-11-08T15:39:09Z" finished-at="2019-11-08T15:39:13Z">
+      <class name="com.qa.rest.AuthTestCases.BasicAuthenticationTest">
+        <test-method status="PASS" signature="setLog4J()[pri:0, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="setLog4J" is-config="true" duration-ms="20" started-at="2019-11-08T21:09:09Z" finished-at="2019-11-08T21:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLog4J -->
+        <test-method status="PASS" signature="basicAuthentication()[pri:0, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="basicAuthentication" is-config="true" duration-ms="2892" started-at="2019-11-08T21:09:09Z" finished-at="2019-11-08T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuthentication -->
+        <test-method status="PASS" signature="validateResponseBody()[pri:1, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="validateResponseBody" duration-ms="78" started-at="2019-11-08T21:09:12Z" finished-at="2019-11-08T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBody -->
+        <test-method status="PASS" signature="validateStatusCode()[pri:2, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="validateStatusCode" duration-ms="3" started-at="2019-11-08T21:09:12Z" finished-at="2019-11-08T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method status="PASS" signature="printStatusLine()[pri:3, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="printStatusLine" duration-ms="2" started-at="2019-11-08T21:09:12Z" finished-at="2019-11-08T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printStatusLine -->
+        <test-method status="PASS" signature="printHeaders()[pri:4, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="printHeaders" duration-ms="5" started-at="2019-11-08T21:09:12Z" finished-at="2019-11-08T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHeaders -->
+        <test-method status="PASS" signature="validateResponseBodyValues()[pri:5, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="validateResponseBodyValues" duration-ms="725" started-at="2019-11-08T21:09:12Z" finished-at="2019-11-08T21:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBodyValues -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.rest.AuthTestCases.BasicAuthenticationTest@5ec0a365]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-11-08T21:09:13Z" finished-at="2019-11-08T21:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.rest.AuthTestCases.BasicAuthenticationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

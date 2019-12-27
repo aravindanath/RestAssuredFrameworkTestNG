@@ -1,0 +1,40 @@
+09-16-2019 00:51:02 INFO  PutCallTest:28 - *******Basic Authentication Test Case Execution is Started*******
+09-16-2019 00:51:05 INFO  PutCallTest:51 - -----Response Body is Printed and Validated-----
+09-16-2019 00:51:05 INFO  PutCallTest:31 - *******Customer Post Call Test Case Execution is Started*******
+09-16-2019 00:51:06 INFO  PutCallTest:72 - -----Response Body is Printed and Validated-----
+09-16-2019 00:51:06 INFO  PutCallTest:34 - *******Customer Post Call Java Objects Test Case Execution is Started*******
+09-16-2019 00:51:07 INFO  PutCallTest:61 - -----Response Body is Printed-----
+09-16-2019 00:51:07 INFO  PutCallTest:25 - *******Delete Call Test Case Execution is Started*******
+09-16-2019 00:51:08 INFO  PutCallTest:42 - -----Status Code is Printed and Validated-----
+09-16-2019 00:51:08 INFO  PutCallTest:31 - *******Put Call Test Case Execution is Started*******
+09-16-2019 00:51:09 INFO  PutCallTest:60 - -----Response Body is Printed and Validated-----
+09-16-2019 00:51:09 INFO  PutCallTest:60 - -----Status Code is Printed and Validated-----
+09-16-2019 00:51:09 INFO  PutCallTest:87 - -----Status Code is Printed and Validated-----
+09-16-2019 00:51:10 INFO  PutCallTest:96 - -----Success Code and Success Message is Printed and Validated-----
+09-16-2019 00:51:10 INFO  PutCallTest:69 - -----Status Code is Printed-----
+09-16-2019 00:51:10 INFO  PutCallTest:49 - -----Headers-----
+09-16-2019 00:51:10 INFO  PutCallTest:51 - -----Printed All Headers-----
+09-16-2019 00:51:10 INFO  PutCallTest:58 - -----Printed Indivdual Headers-----
+09-16-2019 00:51:10 INFO  PutCallTest:64 - *******Delete Call Test Case Execution is Completed*******
+09-16-2019 00:51:10 INFO  PutCallTest:69 - -----Status Code is Printed and Validated-----
+09-16-2019 00:51:10 INFO  PutCallTest:67 - -----Status Line is Printed-----
+09-16-2019 00:51:10 INFO  PutCallTest:76 - -----Status Line is Printed-----
+09-16-2019 00:51:10 INFO  PutCallTest:119 - -----Status Line is Printed-----
+09-16-2019 00:51:10 INFO  PutCallTest:76 - -----Status Line is Printed-----
+09-16-2019 00:51:10 INFO  PutCallTest:73 - -----Printing Headers in First Way-----
+09-16-2019 00:51:10 INFO  PutCallTest:77 - -----Printing Headers in Second Way-----
+09-16-2019 00:51:10 INFO  PutCallTest:82 - -----Printed Headers in 2 Ways-----
+09-16-2019 00:51:10 INFO  PutCallTest:90 - -----Printed Headers Individually-----
+09-16-2019 00:51:10 INFO  PutCallTest:82 - -----Printing Headers in First Way-----
+09-16-2019 00:51:10 INFO  PutCallTest:86 - -----Printing Headers in Second Way-----
+09-16-2019 00:51:10 INFO  PutCallTest:91 - -----Printed Headers in 2 Ways-----
+09-16-2019 00:51:10 INFO  PutCallTest:99 - -----Printed Headers Individually-----
+09-16-2019 00:51:10 INFO  PutCallTest:105 - *******Put Call Test Case Execution is Completed*******
+09-16-2019 00:51:10 INFO  PutCallTest:128 - -----Printed All Headers-----
+09-16-2019 00:51:10 INFO  PutCallTest:135 - -----Printed Indivdual Headers-----
+09-16-2019 00:51:10 INFO  PutCallTest:141 - *******Customer Post Call Test Case Execution is Completed*******
+09-16-2019 00:51:10 INFO  PutCallTest:96 - -----Success Code and Success Message is Printed and Validated-----
+09-16-2019 00:51:10 INFO  PutCallTest:116 - *******Customer Post Call Java Objects Test Case Execution is Completed*******
+09-16-2019 00:51:10 INFO  PutCallTest:96 - -----Printing Each Value of Response Body-----
+09-16-2019 00:51:11 INFO  PutCallTest:106 - -----Printed Each Value of Response Body and Validated-----
+09-16-2019 00:51:11 INFO  PutCallTest:112 - *******Basic Authentication Test Case Execution is Completed*******

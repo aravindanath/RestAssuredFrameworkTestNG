@@ -1,0 +1,11 @@
+11-08-2019 21:09:09 INFO  BasicAuthenticationTest:28 - *******Basic Authentication Test Case Execution is Started*******
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:51 - -----Response Body is Printed and Validated-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:60 - -----Status Code is Printed and Validated-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:67 - -----Status Line is Printed-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:73 - -----Printing Headers in First Way-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:77 - -----Printing Headers in Second Way-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:82 - -----Printed Headers in 2 Ways-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:90 - -----Printed Headers Individually-----
+11-08-2019 21:09:12 INFO  BasicAuthenticationTest:96 - -----Printing Each Value of Response Body-----
+11-08-2019 21:09:13 INFO  BasicAuthenticationTest:106 - -----Printed Each Value of Response Body and Validated-----
+11-08-2019 21:09:13 INFO  BasicAuthenticationTest:112 - *******Basic Authentication Test Case Execution is Completed*******
